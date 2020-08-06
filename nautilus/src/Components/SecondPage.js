@@ -106,28 +106,39 @@ export default class SecondPage extends Component {
                     </div>
 
                     <div className="container">
+
                         <div className="conA">
-                            <label></label>
+                            <label className="imageText">Making sense ofGenome , at last</label>
                         </div>
                         <div className="conB">
+                        <label className="imageText">Your Brain is on Brink of Chaos</label>
                         </div>
                         <div className="conC">
+                        <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
                         </div>
                     </div>
                     <div className="container1">
+
                         <div className="conA1">
+                        <label className="imageText"></label>
                         </div>
                         <div className="conB1">
+                        <label className="imageText"></label>
                         </div>
                         <div className="conC1">
+                        <label className="imageText"></label>
                         </div>
                     </div>
                     <div className="container2">
+
                         <div className="conA2">
+                        <label className="imageText"></label>
                         </div>
                         <div className="conB2">
+                        <label className="imageText"></label>
                         </div>
                         <div className="conC2">
+                        <label className="imageText"></label>
                         </div>
                     </div>
 

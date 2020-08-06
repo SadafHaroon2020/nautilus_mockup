@@ -230,69 +230,70 @@ position: relative;
 }
 .container,.container1,.container2{
   display : flex;
+  justify-content: space-evenly;
   padding-bottom: 10px;
 }
 .conA{
   background: url("./assets/bio_and_beyond.jpeg");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
-  position: relative;
+
 }
 .conB{
   background: url("./assets/wise_sci_and_engineering.png");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
-  position: relative;
+ 
 }
 .conC{
   background: url("./assets/abstractions.jpeg");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
   position: relative;
 }
 
 .conA1{
   background: url("./assets/earth.jpeg");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
   position: relative;
 }
 .conB1{
   background: url("./assets/tlas.jpeg");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
   position: relative;
 }
 .conC1{
   background: url("./assets/cosmos.jpeg");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
   position: relative;
 }
 .conA2{
   background: url("./assets/poetry.jpeg");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
   position: relative;
 }
 .conB2{
   background: url("./assets/aging.png");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
   position: relative;
 }
 .conC2{
   background: url("./assets/alliance.png");
-  height: 40vh;
-  width: 30vw;
+  height: 30vh;
+  width: 20vw;
   text-align: center;
   position: relative;
 }
