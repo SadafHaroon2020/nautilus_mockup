@@ -61,7 +61,7 @@ body {
   }
  .navWrap{
   
-    border:solid
+    /* border:solid */
 }
 ._list{
   list-style: none;
@@ -140,4 +140,30 @@ color: #fff;
   line-height: 0.85em;
   letter-spacing: 0.07em;
   margin-bottom: 13px;
+}
+.issueTabs{
+  background: #f3f3f3;
+  z-index: 3;
+  position: absolute;
+  /* width: 25px; */
+}
+.tabs{
+  padding: 15px 0 18px;
+  border-top: solid 1px #cdcdcd;
+}
+.sideBar{
+  position: relative;
+    z-index: 2;
+    border-width: 0 2px 0 0;
+    border-style: solid;
+    border-color: blanchedalmond;
+    width: 260px;
+    float: left;
+    background: #f3f3f3;
+
+  }
+
+
+.sideList{
+  list-style: none;
 }

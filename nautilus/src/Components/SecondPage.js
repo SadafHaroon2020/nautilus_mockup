@@ -48,6 +48,35 @@ export default class SecondPage extends Component {
                             <h2><a href="#">Catalyst</a></h2>
                             <p className="side_text"> “Whats generate a new theory in science? ...</p>
 
+                            <ul id="issueTabs" className="sub_tabs" >
+                                <li className="sideList">
+                                    <div class="tabs">
+                                        <h4>Chapter one</h4>
+                                        <h4>Art</h4>
+                                    </div>
+                                </li>
+
+                                <li className="sideList">
+                                    <div class="tabs">
+                                        <h4>Chapter two</h4>
+                                        <h4>Mind</h4>
+                                    </div>
+                                </li>
+
+                                <li className="sideList">
+                                    <div class="tabs">
+                                        <h4>Chapter three</h4>
+                                        <h4 >Energy</h4>
+                                    </div>
+                                </li>
+                                <li className="sideList">
+                                    <div class="tabs">
+                                        <h4>Chapter Four</h4>
+                                        <h4>Stars</h4>
+                                    </div>
+                                </li>
+
+                            </ul>
 
 
 
