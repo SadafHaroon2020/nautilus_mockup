@@ -5,11 +5,14 @@
 
   .bg {
   background-image: url("./assets/matches.png");
-  height: 100vh;
+  height: 80vh;
+  width: 60vw;
+  left:20%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-    position: relative;
+  position: relative;
+
   }
   .text{
     position: absolute;
@@ -17,6 +20,10 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    line-height: .85px;
+  }
+  .text > h2{
+    font: italic 900 68px/68px "freight-display-pro", Georgia, "Times New Roman", Serif;
   }
   .btn{
   Background-color: black;
@@ -25,7 +32,7 @@
   }
   ._btn{
     position: absolute;
-    top:  65%;
+    top:  75%;
     left: 52%;
     transform: translate(-65%, -65%);
   }

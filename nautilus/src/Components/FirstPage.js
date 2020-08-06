@@ -11,10 +11,10 @@ export default class FirstPage extends Component {
 
          <div className="bg">
          <div className="text">
-           <h4>Issue 079</h4>
+           <h6>Issue 079</h6>
            <h2>Catalyst</h2>
-           <h5>Agents of change</h5>
-           <h4>Read More</h4>
+           <h6>Agents of change</h6>
+           <h5>Read More</h5>
          </div>
          <div className="_btn">
          <button className = "btn">See Full Issue</button>
