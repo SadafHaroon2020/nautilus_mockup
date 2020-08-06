@@ -120,13 +120,19 @@ export default class SecondPage extends Component {
                     <div className="container1">
 
                         <div className="conA1">
-                        <label className="imageText"></label>
+                        <label className="imageText">
+                            The Deep time of Walden Pond
+                        </label>
                         </div>
                         <div className="conB1">
-                        <label className="imageText"></label>
+                        <label className="imageText">
+                            The Best Burger place is a Lab
+                        </label>
                         </div>
                         <div className="conC1">
-                        <label className="imageText"></label>
+                        <label className="imageText">
+                            How much Shoud Expectation drive Science ?
+                        </label>
                         </div>
                     </div>
                     <div className="container2">
