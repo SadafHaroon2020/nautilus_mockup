@@ -55,14 +55,12 @@ export default class SecondPage extends Component {
                                         <h4>Art</h4>
                                     </div>
                                 </li>
-
                                 <li className="sideList">
                                     <div className="tabs">
                                         <h4>Chapter two</h4>
                                         <h4>Mind</h4>
                                     </div>
                                 </li>
-
                                 <li className="sideList">
                                     <div className="tabs">
                                         <h4>Chapter three</h4>
@@ -77,20 +75,36 @@ export default class SecondPage extends Component {
                                 </li>
 
                             </ul>
-
-
-
                         </div>
                     </div>
                     <div className="centerSection">
                         <div className="centerImg"></div>
-                        
                         <div className="details">
                             <span> Artificial Intelligence</span>
                             <h4 >Best Screen Play goes to the Algorithms</h4>
                             <h5 >By Arthur I.Miller </h5>
                         </div>
                     </div>
+                    <div className = "bottomMid">
+                        <div className = "midBtm1"></div>
+                        <div className="details2">
+                            <span> Music</span>
+                            <h4>How I taught My Computer to write its Own Music</h4>
+                            <h5 >By John Supko </h5>
+                        </div>
+                        <div className = "midBtm2"></div>
+                        <div className="details">
+                            <span> Art</span>
+                            <h4 >Picasso's got Nothing on AI Artist</h4>
+                            <h5 >By Kevin Berger </h5>
+                        </div>
+                    </div>
+                    <div className = "lastItem">
+                        <h3>Channels</h3>
+                        <h4>Tune in to Nautilus' deep dive portals</h4>
+
+                    </div>
+                    
                 </div>
             </div>
 

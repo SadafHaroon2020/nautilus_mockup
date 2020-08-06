@@ -179,14 +179,52 @@ color: #fff;
 }
 .centerSection{
 display:flex;
-  padding-top: 10px;;
+padding-top: 10px;;
 
 }
 .centerImg{
- background: url("./assets/ai.png");
+background: url("./assets/ai.png");
 height: 40vh;
-width: 60vw;
+width: 80vw;
 text-align: center;
 position: relative;
 
+}
+.bottomMid{
+  display:flex;
+}
+.midBtm1{
+background: url("./assets/music.png");
+height: 40vh;
+width: 30vw;
+text-align: center;
+position: relative;
+}
+.midBtm2{
+background: url("./assets/art.png");
+height: 40vh;
+width: 30vw;
+text-align: center;
+position: relative;
+
+}
+.details2{
+  position: relative;
+  z-index:99;
+  width: 188px;
+  height: 160px;
+  z-index: 3;
+  background: #fff;
+  padding: 12px 20px 13px;
+  top:100%;
+  left:32%;
+  border:solid;
+}
+.lastItem > h3{
+  text-align: center;
+    font: italic 950 40px/40px "freight-display-pro", Georgia, "Times New Roman", Serif;
+  
+}
+.lastItem > h4{
+  text-align: center;
 }
