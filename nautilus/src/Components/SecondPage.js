@@ -138,15 +138,27 @@ export default class SecondPage extends Component {
                     <div className="container2">
 
                         <div className="conA2">
-                        <label className="imageText"></label>
+                        <label className="imageText">
+                            On observation and Imagination
+                        </label>
                         </div>
                         <div className="conB2">
-                        <label className="imageText"></label>
+                        <label className="imageText">
+                            Yes , Life in the fast Lane Kills you
+                        </label>
                         </div>
                         <div className="conC2">
-                        <label className="imageText"></label>
+                        <label className="imageText">
+                            Taking to the Stars
+                        </label>
                         </div>
+                        
                     </div>
+                    <div className="C2">
+                        <label className="imageText">
+                            Taking to the Stars
+                        </label>
+                        </div>
 
 
                 </div>

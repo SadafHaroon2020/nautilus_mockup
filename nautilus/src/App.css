@@ -295,7 +295,15 @@ position: relative;
   height: 30vh;
   width: 20vw;
   text-align: center;
-  position: relative;
+ 
+}
+.C2{
+  background: url("./assets/maxplanck.jpeg");
+  height: 30vh;
+  width: 20vw;
+  text-align: center;
+  margin-left: 150px;
+  /* padding-left: 200px; */
 }
 .imageText{
   color:white;
