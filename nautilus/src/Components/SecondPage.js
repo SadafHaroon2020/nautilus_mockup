@@ -8,7 +8,7 @@ export default class SecondPage extends Component {
     render() {
         return (
             <div className="navWrap">
-                {/* <img src='../../assets/global/nautilus-logo-sprite@2x.png' /> */}
+                {/* <img src='../assets/global/nautilus-logo-sprite@2x.png' /> */}
                 {/* <div className= "navLogo">
                 <img className="_logo" src={Logo} />
                 </div> */}
@@ -41,7 +41,7 @@ export default class SecondPage extends Component {
 
                 </div>
                 {/* =============================== */}
-                <div ClassName="sideBarWrap">
+                <div className="sideBarWrap">
                     <div className="sideBar">
                         <div className="info">
                             <a href="" className="">Issue 079</a>
@@ -50,27 +50,27 @@ export default class SecondPage extends Component {
 
                             <ul id="issueTabs" className="sub_tabs" >
                                 <li className="sideList">
-                                    <div class="tabs">
+                                    <div className="tabs">
                                         <h4>Chapter one</h4>
                                         <h4>Art</h4>
                                     </div>
                                 </li>
 
                                 <li className="sideList">
-                                    <div class="tabs">
+                                    <div className="tabs">
                                         <h4>Chapter two</h4>
                                         <h4>Mind</h4>
                                     </div>
                                 </li>
 
                                 <li className="sideList">
-                                    <div class="tabs">
+                                    <div className="tabs">
                                         <h4>Chapter three</h4>
                                         <h4 >Energy</h4>
                                     </div>
                                 </li>
                                 <li className="sideList">
-                                    <div class="tabs">
+                                    <div className="tabs">
                                         <h4>Chapter Four</h4>
                                         <h4>Stars</h4>
                                     </div>
@@ -82,7 +82,15 @@ export default class SecondPage extends Component {
 
                         </div>
                     </div>
-                    <div className="centerSection"></div>
+                    <div className="centerSection">
+                        <div className="centerImg"></div>
+                        
+                        <div className="details">
+                            <span> Artificial Intelligence</span>
+                            <h4 >Best Screen Play goes to the Algorithms</h4>
+                            <h5 >By Arthur I.Miller </h5>
+                        </div>
+                    </div>
                 </div>
             </div>
 
