@@ -159,6 +159,7 @@ export default class SecondPage extends Component {
                             Taking to the Stars
                         </label>
                         </div>
+                        <p className= "_pop"> Popular on Nautilus</p>
 
 
                 </div>

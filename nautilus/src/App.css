@@ -309,3 +309,8 @@ position: relative;
   color:white;
   font: 550 20px/20px "freight-display-pro", Georgia, "Times New Roman", Serif;
 }
+._pop{
+  color:black;
+  font: 550 20px/20px "freight-display-pro", Georgia, "Times New Roman", Serif;
+  text-align: center;
+}
