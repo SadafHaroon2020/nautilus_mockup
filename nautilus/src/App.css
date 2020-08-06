@@ -1,5 +1,5 @@
 body {
-  font: 400 14px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+  /* font: 400 14px "freight-sans-pro", Helvetica, Arial, Sans-Serif; */
   color: #222222;
 
 }
@@ -44,7 +44,7 @@ body {
     display: inline-block;
     color: #fff;
     background: #000;
-    -webkit-font-smoothing: antialiased;
+   
     border: 2px solid black!important;
   }
   ._btn{
@@ -109,4 +109,35 @@ display: table;
 text-align: center;
 position: relative;
 color: #fff;
+}
+/* button.btnrv2 {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+} */
+.button {
+  font: 700 12px/1px "freight-sans-pro", Helvetica, Arial, sans-serif !important;
+  height: 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  text-align: center;
+  padding: 12px 10px !important;
+  position: absolute;
+  top:  110%;
+  left: 52%;
+  transform: translate(-65%, -65%);
+}
+.midText{
+  font:"freight-display-pro", Georgia, "Times New Roman", Serif;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffb618;
+  font-size: 25px;
+  text-align: center;
+  line-height: 0.85em;
+  letter-spacing: 0.07em;
+  margin-bottom: 13px;
 }

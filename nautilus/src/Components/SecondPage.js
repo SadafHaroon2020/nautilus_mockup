@@ -29,10 +29,13 @@ export default class SecondPage extends Component {
                 </div>
                 <div className="midDiv">
                     <div className="cardImg"></div>
-                    <h2></h2>
-                    <h3></h3>
-                    <div className="_btn">
-                        <button className="btn">See Full Issue</button>
+                    <div className="midText">
+                    <p>THE NAUTILUS SPOTLIGHT
+                    WHY THE LAWS OF PHYSICS ARE INEVITABLE</p>
+                    </div>
+                    <div className="">
+                        <button className="button ">Read Now</button>
+                        {/* <a href="" class="button  btn"> Read Now</a> */}
                     </div>
 
 
