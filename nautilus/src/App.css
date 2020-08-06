@@ -1,5 +1,5 @@
 body {
-  /* font: 400 14px "freight-sans-pro", Helvetica, Arial, Sans-Serif; */
+
   color: #222222;
 
 }
@@ -38,7 +38,7 @@ body {
     letter-spacing: 0.1em;
     text-decoration: none;
     text-align: center;
-    /* padding: 18px 12px !important; */
+ 
     margin: 0 auto 20px auto;
     min-width: 87px;
     display: inline-block;
@@ -62,22 +62,17 @@ body {
 
 ._list{
   list-style: none;
-  
 }
 .navList{
   display: inline;
   padding: 10px;
   
 }
-
-
  ._logo {
   background-color: transparent;
   border: 0;
   color: transparent;
-  /* font: 0/0 a; */
   text-shadow: none;
-  /* text-indent: -9999px; */
   background-image: url("./assets/global/nautilus-logo-sprite@2x.png");
   background-size: 344px;
   width: 172px;
@@ -93,7 +88,6 @@ body {
   top:80%;
   position: absolute;
   left: 38%;
-  /* margin-left: -190px; */
   text-align: center;
   display: block;
 }
@@ -107,11 +101,7 @@ text-align: center;
 position: relative;
 color: #fff;
 }
-/* button.btnrv2 {
-  background: #fff;
-  color: #000;
-  border: 2px solid #000;
-} */
+
 .button {
   font: 700 12px/1px "freight-sans-pro", Helvetica, Arial, sans-serif !important;
   height: 15px;
@@ -142,7 +132,7 @@ color: #fff;
   background: #f3f3f3;
   z-index: 3;
   position: absolute;
-  /* width: 25px; */
+
 }
 .tabs{
   padding: 15px 0 18px;
@@ -303,7 +293,7 @@ position: relative;
   width: 20vw;
   text-align: center;
   margin-left: 150px;
-  /* padding-left: 200px; */
+
 }
 .imageText{
   color:white;
