@@ -8,10 +8,7 @@ export default class SecondPage extends Component {
     render() {
         return (
             <div className="navWrap">
-                {/* <img src='../assets/global/nautilus-logo-sprite@2x.png' /> */}
-                {/* <div className= "navLogo">
-                <img className="_logo" src={Logo} />
-                </div> */}
+
                 <div className="main-nav">
                     <div className="_logo"><a className="" href="#" ></a></div>
                     <div className="navDiv">
@@ -27,7 +24,7 @@ export default class SecondPage extends Component {
                         </ul>
                     </div>
                 </div>
-                {/* ===================================== */}
+
                 <div className="midDiv">
                     <div className="cardImg"></div>
                     <div className="midText">
@@ -36,11 +33,11 @@ export default class SecondPage extends Component {
                     </div>
                     <div className="">
                         <button className="button ">Read Now</button>
-                        {/* <a href="" class="button  btn"> Read Now</a> */}
+
                     </div>
 
                 </div>
-                {/* =============================== */}
+
                 <div className="sideBarWrap">
                     <div className="sideBar">
                         <div className="info">
@@ -111,55 +108,55 @@ export default class SecondPage extends Component {
                             <label className="imageText">Making sense ofGenome , at last</label>
                         </div>
                         <div className="conB">
-                        <label className="imageText">Your Brain is on Brink of Chaos</label>
+                            <label className="imageText">Your Brain is on Brink of Chaos</label>
                         </div>
                         <div className="conC">
-                        <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
+                            <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
                         </div>
                     </div>
                     <div className="container1">
 
                         <div className="conA1">
-                        <label className="imageText">
-                            The Deep time of Walden Pond
+                            <label className="imageText">
+                                The Deep time of Walden Pond
                         </label>
                         </div>
                         <div className="conB1">
-                        <label className="imageText">
-                            The Best Burger place is a Lab
+                            <label className="imageText">
+                                The Best Burger place is a Lab
                         </label>
                         </div>
                         <div className="conC1">
-                        <label className="imageText">
-                            How much Shoud Expectation drive Science ?
+                            <label className="imageText">
+                                How much Shoud Expectation drive Science ?
                         </label>
                         </div>
                     </div>
                     <div className="container2">
 
                         <div className="conA2">
-                        <label className="imageText">
-                            On observation and Imagination
+                            <label className="imageText">
+                                On observation and Imagination
                         </label>
                         </div>
                         <div className="conB2">
-                        <label className="imageText">
-                            Yes , Life in the fast Lane Kills you
+                            <label className="imageText">
+                                Yes , Life in the fast Lane Kills you
                         </label>
                         </div>
                         <div className="conC2">
-                        <label className="imageText">
-                            Taking to the Stars
+                            <label className="imageText">
+                                Taking to the Stars
                         </label>
                         </div>
-                        
+
                     </div>
                     <div className="C2">
                         <label className="imageText">
                             Taking to the Stars
                         </label>
-                        </div>
-                        <p className= "_pop"> Popular on Nautilus</p>
+                    </div>
+                    <p className="_pop"> Popular on Nautilus</p>
 
 
                 </div>
