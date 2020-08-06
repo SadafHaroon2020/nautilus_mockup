@@ -85,26 +85,53 @@ export default class SecondPage extends Component {
                             <h5 >By Arthur I.Miller </h5>
                         </div>
                     </div>
-                    <div className = "bottomMid">
-                        <div className = "midBtm1"></div>
+                    <div className="bottomMid">
+                        <div className="midBtm1"></div>
                         <div className="details2">
                             <span> Music</span>
                             <h4>How I taught My Computer to write its Own Music</h4>
                             <h5 >By John Supko </h5>
                         </div>
-                        <div className = "midBtm2"></div>
+                        <div className="midBtm2"></div>
                         <div className="details">
                             <span> Art</span>
                             <h4 >Picasso's got Nothing on AI Artist</h4>
                             <h5 >By Kevin Berger </h5>
                         </div>
                     </div>
-                    <div className = "lastItem">
+                    <div className="lastItem">
                         <h3>Channels</h3>
                         <h4>Tune in to Nautilus' deep dive portals</h4>
 
                     </div>
-                    
+
+                    <div className="container">
+                        <div className="conA">
+                            <label></label>
+                        </div>
+                        <div className="conB">
+                        </div>
+                        <div className="conC">
+                        </div>
+                    </div>
+                    <div className="container1">
+                        <div className="conA1">
+                        </div>
+                        <div className="conB1">
+                        </div>
+                        <div className="conC1">
+                        </div>
+                    </div>
+                    <div className="container2">
+                        <div className="conA2">
+                        </div>
+                        <div className="conB2">
+                        </div>
+                        <div className="conC2">
+                        </div>
+                    </div>
+
+
                 </div>
             </div>
 
