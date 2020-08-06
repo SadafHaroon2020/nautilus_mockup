@@ -27,10 +27,11 @@ export default class SecondPage extends Component {
                         </ul>
                     </div>
                 </div>
+                {/* ===================================== */}
                 <div className="midDiv">
                     <div className="cardImg"></div>
                     <div className="midText">
-                    <p>THE NAUTILUS SPOTLIGHT
+                        <p>THE NAUTILUS SPOTLIGHT
                     WHY THE LAWS OF PHYSICS ARE INEVITABLE</p>
                     </div>
                     <div className="">
@@ -38,9 +39,22 @@ export default class SecondPage extends Component {
                         {/* <a href="" class="button  btn"> Read Now</a> */}
                     </div>
 
-
                 </div>
+                {/* =============================== */}
+                <div ClassName="sideBarWrap">
+                    <div className="sideBar">
+                        <div className="info">
+                            <a href="" className="">Issue 079</a>
+                            <h2><a href="#">Catalyst</a></h2>
+                            <p className="side_text"> “Whats generate a new theory in science? ...</p>
 
+
+
+
+                        </div>
+                    </div>
+                    <div className="centerSection"></div>
+                </div>
             </div>
 
         )
