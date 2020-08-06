@@ -14,7 +14,7 @@ export default class FirstPage extends Component {
            <h6 className="_issue">ISSUE 079</h6>
            <h2>Catalyst</h2>
            <h6>Agents of change</h6>
-           <a  href="x" className="_link">Read More</a>
+           <a  href="" className="_link">Read More</a>
          </div>
          <div className="_btn">
          <button className = "btn">See Full Issue</button>

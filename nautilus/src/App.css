@@ -1,7 +1,8 @@
-.App {
-  text-align: center;
-}
+body {
+  font: 400 14px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+  color: #222222;
 
+}
 
   .bg {
   background-image: url("./assets/matches.png");
@@ -58,3 +59,54 @@
     letter-spacing: 1px;
     text-transform: uppercase;
   }
+ .navWrap{
+  
+    border:solid
+}
+._list{
+  list-style: none;
+  
+}
+.navList{
+  display: inline;
+  padding: 10px;
+  
+}
+
+
+ ._logo {
+  background-color: transparent;
+  border: 0;
+  color: transparent;
+  /* font: 0/0 a; */
+  text-shadow: none;
+  /* text-indent: -9999px; */
+  background-image: url("./assets/global/nautilus-logo-sprite@2x.png");
+  background-size: 344px;
+  width: 172px;
+  height: 55px;
+  left:20%;
+  text-decoration: none;
+  color:black;
+  position: relative;
+  display: block;
+ 
+}
+.navDiv{
+  top:80%;
+  position: absolute;
+  left: 38%;
+  /* margin-left: -190px; */
+  text-align: center;
+  display: block;
+}
+.cardImg{
+background: url("./assets/clover_card.jpg");
+height: 30vh;
+width: 60vw;
+left:20%;
+display: table;
+text-align: center;
+position: relative;
+color: #fff;
+}
