@@ -218,7 +218,7 @@ position: relative;
 .lastItem > h4{
   text-align: center;
 }
-.container,.container1,.container2{
+.container,.container1,.container2,.container3{
   display : flex;
   justify-content: space-evenly;
   padding-bottom: 10px;
@@ -303,4 +303,32 @@ position: relative;
   color:black;
   font: 550 20px/20px "freight-display-pro", Georgia, "Times New Roman", Serif;
   text-align: center;
+}
+.conA3{
+  background: url("./assets/bio_and_beyond.jpeg");
+  height: 30vh;
+  width: 20vw;
+  text-align: center;
+
+}
+.conB3{
+  background: url("./assets/aging.png");
+  height: 30vh;
+  width: 20vw;
+  text-align: center;
+  position: relative;
+}
+.conC3{
+  background: url("./assets/alliance.png");
+  height: 30vh;
+  width: 20vw;
+  text-align: center;
+ 
+}
+.conD3{
+  background: url("./assets/alliance.png");
+  height: 30vh;
+  width: 20vw;
+  text-align: center;
+ 
 }

@@ -158,6 +158,7 @@ export default class SecondPage extends Component {
                     </div>
                     <p className="_pop"> Popular on Nautilus</p>
                     <p className="_pop"> Facts so Romantic</p>
+
                     <div className="container">
 
                         <div className="conA3">
@@ -167,6 +168,9 @@ export default class SecondPage extends Component {
                             <label className="imageText">Your Brain is on Brink of Chaos</label>
                         </div>
                         <div className="conC3">
+                            <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
+                        </div>
+                        <div className="conD3">
                             <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
                         </div>
                     </div>
