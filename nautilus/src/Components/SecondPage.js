@@ -173,7 +173,9 @@ export default class SecondPage extends Component {
                         <div className="conD3">
                             <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
                         </div>
+                        
                     </div>
+                    <p className="_pop">Listen To Nautilus</p>
 
 
 
