@@ -16,23 +16,45 @@
   }
   .text{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
     line-height: .85px;
   }
   .text > h2{
-    font: italic 900 68px/68px "freight-display-pro", Georgia, "Times New Roman", Serif;
+    font: italic 950 40px/40px "freight-display-pro", Georgia, "Times New Roman", Serif;
+  }
+  ._issue{
+    font: 700 10px/10px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+    text-transform: uppercase;
+    letter-spacing: .1em;
   }
   .btn{
-  Background-color: black;
-  color: white;
-  
+    font: 700 12px/1px "freight-sans-pro", Helvetica, Arial, sans-serif !important;
+    height: 30px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+    text-align: center;
+    /* padding: 18px 12px !important; */
+    margin: 0 auto 20px auto;
+    min-width: 87px;
+    display: inline-block;
+    color: #fff;
+    background: #000;
+    -webkit-font-smoothing: antialiased;
+    border: 2px solid black!important;
   }
   ._btn{
     position: absolute;
-    top:  75%;
+    top:  65%;
     left: 52%;
     transform: translate(-65%, -65%);
+  }
+  ._link{
+    color: #fff;
+    font: 700 12px/24px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
   }

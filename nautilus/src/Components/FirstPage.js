@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import MatchesImg from '../assets/matches.png'
+// import MatchesImg from '../assets/matches.png'
 import App from '../App.css'
 
 
@@ -11,17 +11,17 @@ export default class FirstPage extends Component {
 
          <div className="bg">
          <div className="text">
-           <h6>Issue 079</h6>
+           <h6 className="_issue">ISSUE 079</h6>
            <h2>Catalyst</h2>
            <h6>Agents of change</h6>
-           <h5>Read More</h5>
+           <a  href="x" className="_link">Read More</a>
          </div>
          <div className="_btn">
          <button className = "btn">See Full Issue</button>
          </div>
       </div>
       </div>
-      
+      // 
     )
   }
 }
